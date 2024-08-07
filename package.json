@@ -55,7 +55,7 @@
   },
   "devDependencies": {
     "@logux/eslint-config": "^53.0.0",
-    "@size-limit/preset-small-lib": "11.1.1",
+    "@size-limit/preset-small-lib": "11.1.4",
     "c8": "^9.1.0",
     "clean-publish": "^4.3.0",
     "eslint": "^8.57.0",
