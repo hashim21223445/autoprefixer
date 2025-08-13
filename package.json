@@ -54,7 +54,7 @@
     "postcss-value-parser": "^4.2.0"
   },
   "devDependencies": {
-    "@logux/eslint-config": "^53.0.0",
+    "@logux/eslint-config": "^56.0.0",
     "@size-limit/preset-small-lib": "11.1.6",
     "c8": "^9.1.0",
     "clean-publish": "^4.3.0",
